@@ -8,7 +8,7 @@
 
 
 2. The input should be a number, not a string,g and it should be greater than 0.
-3. You can also try this here live, but the first request will take up to 50 seconds because deploying on free instance: [Live](https://check-prime.onrender.com/check-prime)
+3. You can also try this here live, but the first request will take up to 50 seconds because it is deployed on render free instance: [Live](https://check-prime.onrender.com/check-prime)
 
 ## How to run locally
 
